@@ -1,0 +1,8 @@
+a=int(input("enter the length of rectangle \n"))
+b=int(input("enter the breadth of rectangle \n"))
+print("Area of rectangle =",a*b,"\n")
+a=float(input("enter the radius of circle \n"))
+print("Area of circle =",3.14*a*a,"\n")
+a=float(input("enter the breadth of triangle \n"))
+b=float(input("enter the height of triangle \n"))
+print("Area of triangle =",0.5*a*b,"\n")

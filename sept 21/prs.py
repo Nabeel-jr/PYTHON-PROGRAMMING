@@ -1,0 +1,5 @@
+a=input("enter your Name \n")
+b=input("enter your Roll no \n")
+c=input("enter your Course \n")
+d=input("enter your phone Number \n")
+print("Hey Roll no",b,"!!! \nyour Name is",a,"and your course is",c,"also your phone Number is",d)
