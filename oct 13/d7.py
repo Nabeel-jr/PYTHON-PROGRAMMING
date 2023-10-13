@@ -4,3 +4,7 @@ d.pop(3)
 print(d)
 d.popitem()
 print(d)
+del d[2]
+print(d)
+d.clear()
+print(d)
