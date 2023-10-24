@@ -1,4 +1,4 @@
-c1=["red","green","blue","lightblue"]
+c1=["red","green","blue","lightblue","orange"]
 c2=["yellow","purple","blue","green"]
 print(c1)
 print(c2)
