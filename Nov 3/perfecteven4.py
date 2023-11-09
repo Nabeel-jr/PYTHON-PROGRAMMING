@@ -17,4 +17,4 @@ for i in lst:
     if count==4:
         elst.append(int(i))
                 
-print("four even digit  perfect square\n"elst)    
+print("four even digit  perfect square\n",elst)    
