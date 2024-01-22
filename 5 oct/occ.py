@@ -4,5 +4,6 @@ lst=a.split()
 count=0
 for n in lst:
     if n==b:
+        z=n
         count+=1
-print("number of",n,"is:", count)
+print("number of",z,"is:", count)
